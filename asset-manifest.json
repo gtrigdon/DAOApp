@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rigdonhouse-dao-app/static/css/main.cff507ed.css",
+    "main.js": "/rigdonhouse-dao-app/static/js/main.8914524e.js",
+    "index.html": "/rigdonhouse-dao-app/index.html",
+    "main.cff507ed.css.map": "/rigdonhouse-dao-app/static/css/main.cff507ed.css.map",
+    "main.8914524e.js.map": "/rigdonhouse-dao-app/static/js/main.8914524e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cff507ed.css",
+    "static/js/main.8914524e.js"
+  ]
+}
